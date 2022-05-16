@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         var n= 4
+        var ns
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
