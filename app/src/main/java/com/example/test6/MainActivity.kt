@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         var n= 4
         var ns
+        var sono il secondo branch
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
